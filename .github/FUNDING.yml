@@ -1,0 +1,7 @@
+# .github/FUNDING.yml
+# Account-wide GitHub Sponsor configuration for philgear
+# When committed to github.com/philgear/.github, this sets the default sponsor button across all public repos.
+
+custom:
+  - https://www.paypal.com/donate/?hosted_button_id=BLJ66DUQSXSZN
+  - https://venmo.com/philgear
